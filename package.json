@@ -1,0 +1,22 @@
+{
+    "name": "elemental",
+    "displayName": "Elemental",
+    "description": "This theme is based on the Four Elements and provides a clear interface for writing code.",
+    "version": "0.0.1",
+    "publisher": "cjameskeller",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Elemental",
+                "uiTheme": "vs",
+                "path": "./themes/Elemental-color-theme.json"
+            }
+        ]
+    }
+}

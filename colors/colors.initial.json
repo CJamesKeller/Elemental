@@ -1,0 +1,30 @@
+{
+  "AETHER": {
+    "commentGray": "rgb(192,192,192)",
+    "nullAndUndefinedGray": "rgb(160, 160, 160)",
+    "markupGray": "rgb(128, 128, 128)",
+    "punctuationGray": "rgb(64, 64, 64)",
+    "codeItselfBlack": "rgb(0, 0, 0)"
+  },
+  "FIRE": {
+    "numericOrange": "rgb(255, 128, 0)",
+    "functionalRed": "rgb(255, 64, 64)",
+    "badRed": "rgb(255, 0, 0)",
+    "operatorRed": "rgb(192, 0, 0)",
+    "builtInRed": "rgb(192, 96, 96)"
+  },
+  "AIR": {
+    "mathYellow": "rgb(224, 224, 0)",
+    "stringYellow": "rgb(192, 192, 0)",
+    "operatorGreen": "rgb(0, 192, 0)",
+    "newGreen": "rgb(64, 192, 128)",
+    "controlFlowGreen": "rgb(128, 192, 128)",
+    "keywordGreen": "rgb(160, 224, 128)"
+  },
+  "WATER": {
+    "booleanBlue": "rgb(64, 192, 255)",
+    "entityBlue": "rgb(0, 128, 255)",
+    "builtInBlue": "rgb(96, 128, 224)",
+    "supportBlue": "rgb(64, 128, 192)"
+  }
+}
