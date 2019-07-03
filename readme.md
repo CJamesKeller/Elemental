@@ -1,5 +1,11 @@
 # Elemental VSCode Theme
 
+## NOTE
+
+Owing to some difficulty I ran into while packaging this as an published theme, I recommend copying over the `.vscode/settings.json` file to try it out! Feedback is welcome.
+
+Still need to get this properly published yet.
+
 ## Purpose
 
 This theme is meant to enable greater speed of comprehension by connecting the syntax colors with the four elements,
