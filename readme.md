@@ -43,16 +43,16 @@ Example files for HTML, JS, TSX, and MD formats are included.
 
 ## Pictures:
 
-![Typeswag Example](https://github.com/CJamesKeller/Elemental/typeswag_example.png)
+![Typeswag Example](https://github.com/CJamesKeller/Elemental/blob/master/typeswag_example.png)
 
 ---
 
-![Javascript](https://github.com/CJamesKeller/Elemental/javascript.png)
+![Javascript](https://github.com/CJamesKeller/Elemental/blob/master/javascript.png)
 
 ---
 
-![Markdown](https://github.com/CJamesKeller/Elemental/markdown.png)
+![Markdown](https://github.com/CJamesKeller/Elemental/blob/master/markdown.png)
 
 ---
 
-![Lower-Level Languages](https://github.com/CJamesKeller/Elemental/c_cpp.png)
+![Lower-Level Languages](https://github.com/CJamesKeller/Elemental/blob/master/c_cpp.png)
