@@ -40,3 +40,19 @@ according to the schema presented below:
 
 ### Examples:  
 Example files for HTML, JS, TSX, and MD formats are included.
+
+## Pictures:
+
+![Typeswag Example](https://github.com/CJamesKeller/Elemental/typeswag_example.png)
+
+---
+
+![Javascript](https://github.com/CJamesKeller/Elemental/javascript.png)
+
+---
+
+![Markdown](https://github.com/CJamesKeller/Elemental/markdown.png)
+
+---
+
+![Lower-Level Languages](https://github.com/CJamesKeller/Elemental/c_cpp.png)
