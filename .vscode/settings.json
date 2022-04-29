@@ -72,7 +72,7 @@
         "editorSuggestWidget.foreground": "#606060",
         "editorSuggestWidget.highlightForeground": "#408040",
         "editorSuggestWidget.selectedBackground": "#ffc080",
-        "editorUnnecessaryCode.opacity": "#c0b8b080",
+        "editorUnnecessaryCode.opacity": "#000080",
         "editorWarning.foreground": "#c08060",
         "editorWhitespace.foreground": "#e8e0d8",
         "editorWidget.background": "#f0e8e0",
@@ -471,7 +471,7 @@
             {
                 "scope": "markup.bold",
                 "settings": {
-                    "foreground": "#737373",
+                    "foreground": "#404040",
                     "fontStyle": "bold"
                 }
             },
@@ -485,8 +485,8 @@
             {
                 "scope": "markup.inline.raw",
                 "settings": {
-                    "foreground": "#000000",
-                    "fontStyle": ""
+                    "foreground": "#d03030",
+                    "fontStyle": "bold"
                 }
             },
             {
